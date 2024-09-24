@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\juice\\c\\\u626B\u96F7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D280A95A-1DA2-4E40-A6D2-FB105665E022}|\u626B\u96F7\\\u626B\u96F7.vcxproj|C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D280A95A-1DA2-4E40-A6D2-FB105665E022}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D280A95A-1DA2-4E40-A6D2-FB105665E022}|\u626B\u96F7\\\u626B\u96F7.vcxproj|C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D280A95A-1DA2-4E40-A6D2-FB105665E022}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D280A95A-1DA2-4E40-A6D2-FB105665E022}|\u626B\u96F7\\\u626B\u96F7.vcxproj|C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D280A95A-1DA2-4E40-A6D2-FB105665E022}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D280A95A-1DA2-4E40-A6D2-FB105665E022}|\u626B\u96F7\\\u626B\u96F7.vcxproj|C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\const.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D280A95A-1DA2-4E40-A6D2-FB105665E022}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\const.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D280A95A-1DA2-4E40-A6D2-FB105665E022}|\u626B\u96F7\\\u626B\u96F7.vcxproj|C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D280A95A-1DA2-4E40-A6D2-FB105665E022}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D280A95A-1DA2-4E40-A6D2-FB105665E022}|\u626B\u96F7\\\u626B\u96F7.vcxproj|C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D280A95A-1DA2-4E40-A6D2-FB105665E022}|\u626B\u96F7\\\u626B\u96F7.vcxproj|solutionrelative:\u626B\u96F7\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "map.cpp",
+              "DocumentMoniker": "C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\map.cpp",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\map.cpp",
+              "ToolTip": "C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\map.cpp",
+              "RelativeToolTip": "\u626B\u96F7\\map.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T11:00:39.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "const.h",
+              "DocumentMoniker": "C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\const.h",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\const.h",
+              "ToolTip": "C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\const.h*",
+              "RelativeToolTip": "\u626B\u96F7\\const.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvx0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T11:24:34.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "map.h",
+              "DocumentMoniker": "C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\map.h",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\map.h",
+              "ToolTip": "C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\map.h*",
+              "RelativeToolTip": "\u626B\u96F7\\map.h*",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T11:00:28.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "grid.cpp",
+              "DocumentMoniker": "C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\grid.cpp",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\grid.cpp",
+              "ToolTip": "C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\grid.cpp",
+              "RelativeToolTip": "\u626B\u96F7\\grid.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T10:53:33.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "grid.h",
+              "DocumentMoniker": "C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\grid.h",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\grid.h",
+              "ToolTip": "C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\grid.h*",
+              "RelativeToolTip": "\u626B\u96F7\\grid.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T10:51:40.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\main.cpp",
+              "RelativeDocumentMoniker": "\u626B\u96F7\\main.cpp",
+              "ToolTip": "C:\\juice\\c\\\u626B\u96F7\\\u626B\u96F7\\main.cpp",
+              "RelativeToolTip": "\u626B\u96F7\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T11:07:06.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
